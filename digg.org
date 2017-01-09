@@ -2,7 +2,17 @@
 #+TODO: PLANED | VISITED | KNOWN
 #+TAGS: ПНШ Проверка Допройти
 #+STARTUP: showall
-#+HTML_HEAD: <link rel="stylesheet" href="http://dakrone.github.io/org.css" type="text/css" />
+#+AUTHOR: Феодосий Печерский
+
+#+OPTIONS: toc:nil num:3 H:4 ^:nil pri:t
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://gongzhitaao.org/orgcss/org.css"/>
+
+#+BEGIN_abstract
+Планы идей подземных изысканий
+#+END_abstract
+
+# now prints out the previously disabled (toc:nil) table of contents.
+#+TOC: headlines 2
 
 * Киев
 ** *Коллектора*
@@ -25,11 +35,14 @@
 *** /Источная/
 **** PLANED Допройти Источную далее в сторону Лепсе
 **** PLANED На север, в сторону Машиностроительной
-*** /Нивка /
+*** /Нивка/
 **** VISITED Озера [[http://wikimapia.org/#lang=en&lat=50.421452&lon=30.415864&z=16&m=b][На воинской части]]                                                                                                                    :Проверка:
     пройден. Коллектор Диверсионный
 **** PLANED Коллектор реки Жуляны [[http://wikimapia.org/#lang=en&lat=50.398342&lon=30.371511&z=18&m=m][тыц]]
 **** PLANED Допрохождение Желани под водонасоску
+**** PLANED Допрохождение приток Диверсионного в сторону Поста Волынского
+**** PLANED Допрохождение притока под Якутской
+**** PLANED Допрохождение Диверсионного под Лепсе
 *** /Мокрая/
 **** PLANED Под парк                                                                                                                                    :Допройти:
 **** PLANED Под Воздухофлотский                                                                                                                         :Допройти:
