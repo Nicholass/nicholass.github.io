@@ -1,0 +1,12 @@
+
+* Korg + Wine + Jack
+http://www.korgforums.com/forum/phpBB2/viewtopic.php?t=60744&sid=44ad87f2906b853d15e33a409d6171c0
+
+I was able to use editor for R3 (ver101) with wine on Ubuntu 12.04
+
+on Jack (Linux side)
+Output Ports: R3 midi in & out ----> Input Ports: Midi Through
+Input Ports: R3 midi in & out ----> Output Ports: Midi Through
+
+on R3 editor in Wine
+Option ---> Preferences ----> MIDI in & out as Midi Through Port-0
