@@ -12,7 +12,7 @@
 #+END_abstract
 
 # now prints out the previously disabled (toc:nil) table of contents.
-#+TOC: headlines 2
+#+TOC: headlines 3
 
 * Киев
 ** *Коллектора*
