@@ -10,6 +10,14 @@
 #+OPTIONS: toc:nil num:3 H:4 ^:nil pri:t
 # -*- mode: org; -*-
 
+@@html:
+<style>
+.figure-number {
+    display: none;
+}
+</style>
+@@
+
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://www.pirilampo.org/styles/readtheorg/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://www.pirilampo.org/styles/readtheorg/css/readtheorg.css"/>
 
@@ -72,8 +80,9 @@
 
 25.03.18 Пройден до конца кирпичной канавы + одна труба. Далее разобран завал из двух люков, но в ил мы уже не двинулись. Планируется вернуться по поверхности, закинуться в канаву (предположительно под парком) и допройти.
 
-#+ATTR_HTML: :width 200
-[[file:data/35/3998ff-c650-4672-86a4-75f2c77033c1/photo_2018-03-26_12-00-29.jpg][синее - 1947 год постройки]]
+#+caption: синее - 1947 год постройки
+#+ATTR_HTML: :width 800 title="синее - 1947 год постройки"
+[[file:data/35/3998ff-c650-4672-86a4-75f2c77033c1/photo_2018-03-26_12-00-29.jpg]]
 
 *** /ЛЫБИДЬ-троллдепо/
 **** VISITED На територии завода были замечены трубы (2015г). :: Предполагается что коллектор будут достраивать.
